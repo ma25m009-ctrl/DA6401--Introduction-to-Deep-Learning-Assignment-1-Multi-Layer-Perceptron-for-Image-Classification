@@ -77,3 +77,6 @@ Prints Accuracy, Precision, Recall, F1-score and saves `src/confusion_matrix.png
 - `scikit-learn` — train/test split and evaluation metrics
 - `matplotlib` — visualisation
 - `wandb` — experiment tracking
+
+## W&b Report Link
+- https://wandb.ai/ma25m009-iit-madras/da6401-assignment1/reports/MLP-for-Image-Classification--VmlldzoxNjEzNTg1Ng/edit?draftId=VmlldzoxNjEzNTg1Ng%3D%3D
