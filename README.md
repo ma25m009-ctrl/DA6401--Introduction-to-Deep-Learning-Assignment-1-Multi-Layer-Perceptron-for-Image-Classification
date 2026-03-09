@@ -79,4 +79,4 @@ Prints Accuracy, Precision, Recall, F1-score and saves `src/confusion_matrix.png
 - `wandb` — experiment tracking
 
 ## W&b Report Link
-- https://wandb.ai/ma25m009-iit-madras/da6401-assignment1/reports/MLP-for-Image-Classification--VmlldzoxNjEzNTg1Ng/edit?draftId=VmlldzoxNjEzNTg1Ng%3D%3D
+- https://wandb.ai/ma25m009-iit-madras/da6401-assignment1/reports/MLP-for-Image-Classification--VmlldzoxNjEzNTg1Ng?accessToken=k7o57yqycbyd0whquesp0xiyc1nln2k4fi0lwxhx515u2u8fq6h1vtoqs6b9nffs
